@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M3di@</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="media_player">M3DI@ PL@Y3R</string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">| |</string>
+    <string name="play"><![CDATA[>]]></string>
+    <string name="back"><![CDATA[<<]]></string>
+</resources>
